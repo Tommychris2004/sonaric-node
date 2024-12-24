@@ -78,13 +78,13 @@ sonaric identity-export -o your-node-name.identity
 > It is normal to see different file contents each time you export the identity. The file is encrypted using a method that randomizes the output.
 
 ## 7. Receive 100 Points
-To receive instant **100** points, you can use this referral code in GUI dashboard: `nwfq5ty`
+To receive instant **100** points, you can use this referral code in GUI dashboard: `x3lecmi`
 
 ![Screenshot_146](https://github.com/user-attachments/assets/ed49be70-d765-49dd-81b2-b097aef2354f)
 
 ## 8. Discord Role (Operator)
 
-Join Discord: https://discord.gg/jy5EZwhtZH
+Join Discord: https://discord.gg/M8ZJaSjHgV
 
 **1- Type: /addnode in #general**
 
